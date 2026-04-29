@@ -28,18 +28,25 @@ if (!token) {
 
 // Replace this hardcoded data with the real current state.
 // This is a full snapshot, not only new updates.
+// The public feed is intentionally compact: exchange -> list of delistings.
 const HARDCODED_DELISTINGS = {
-  mexc: [
-    // { contract: "DAM_USDT", delistTime: "2026-04-30T07:00:00Z" },
-    // { contract: "R2_USDT", delistTime: "2026-04-28T07:00:00Z" }
+  binance: [
+    // { contract: "ZKJUSDT", delistTime: "2026-04-29T09:00:00Z" }
   ],
+  bingx: [],
+  bitget: [],
+  bybit: [],
   gate: [
     // { contract: "BGSC_USDT", delistTime: "2027-03-20T07:30:00Z" }
+  ],
+  kucoin: [],
+  mexc: [
+    // { contract: "DAM_USDT", delistTime: "2026-04-29T08:00:00Z" }
   ]
 };
 
 function normalizeContract(contract) {
-  return String(contract || "").trim().toUpperCase().replace(/[^A-Z0-9_]/g, "");
+  return String(contract || "").trim().toUpperCase().replace(/[^A-Z0-9_\-]/g, "");
 }
 
 function isStillRelevant(item, now = Date.now()) {
@@ -64,16 +71,11 @@ function normalizeList(list) {
 }
 
 function buildFeed() {
-  return {
-    version: 1,
-    updatedAt: new Date().toISOString(),
-    ttlSeconds: 300,
-    retentionAfterDelistHours: 24,
-    delistings: {
-      mexc: normalizeList(HARDCODED_DELISTINGS.mexc),
-      gate: normalizeList(HARDCODED_DELISTINGS.gate)
-    }
-  };
+  const feed = {};
+  for (const [exchange, list] of Object.entries(HARDCODED_DELISTINGS)) {
+    feed[String(exchange).toLowerCase()] = normalizeList(list);
+  }
+  return feed;
 }
 
 function encodeBase64Utf8(text) {
