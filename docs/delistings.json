@@ -11,26 +11,6 @@
     {
       "contract": "IRUSDT",
       "delistTime": "2026-04-29T09:00:00Z"
-    },
-    {
-      "contract": "AIUSDT",
-      "delistTime": "2026-04-28T10:00:00Z"
-    },
-    {
-      "contract": "VINEUSDT",
-      "delistTime": "2026-04-28T10:00:00Z"
-    },
-    {
-      "contract": "DEGENUSDT",
-      "delistTime": "2026-04-28T09:00:00Z"
-    },
-    {
-      "contract": "B3USDT",
-      "delistTime": "2026-04-28T09:00:00Z"
-    },
-    {
-      "contract": "BOBUSDT",
-      "delistTime": "2026-04-28T09:00:00Z"
     }
   ],
   "bingx": [
@@ -41,6 +21,12 @@
     {
       "contract": "NCSISP5002USD-USDT",
       "delistTime": "2026-04-28T21:41:41.792193556Z"
+    }
+  ],
+  "bitget": [
+    {
+      "contract": "AERGOUSDT",
+      "delistTime": "2026-05-02T07:00:00Z"
     }
   ],
   "bybit": [
@@ -133,10 +119,6 @@
     {
       "contract": "LOBSTAR_USDT",
       "delistTime": "2026-04-29T07:00:00Z"
-    },
-    {
-      "contract": "AI_USDT",
-      "delistTime": "2026-04-28T09:00:00Z"
     }
   ]
 }
