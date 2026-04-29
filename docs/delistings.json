@@ -1,9 +1,218 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T00:00:00Z",
+  "updatedAt": "2026-04-29T05:50:43.918Z",
   "ttlSeconds": 300,
+  "retentionAfterDelistHours": 24,
   "delistings": {
-    "mexc": [],
-    "gate": []
+    "binance": [
+      {
+        "contract": "AIUSDT",
+        "delistTime": "2026-04-28T10:00:00Z"
+      },
+      {
+        "contract": "B3USDT",
+        "delistTime": "2026-04-28T09:00:00Z"
+      },
+      {
+        "contract": "BOBUSDT",
+        "delistTime": "2026-04-28T09:00:00Z"
+      },
+      {
+        "contract": "DAMUSDT",
+        "delistTime": "2026-04-29T09:00:00Z"
+      },
+      {
+        "contract": "DEGENUSDT",
+        "delistTime": "2026-04-28T09:00:00Z"
+      },
+      {
+        "contract": "IRUSDT",
+        "delistTime": "2026-04-29T09:00:00Z"
+      },
+      {
+        "contract": "VINEUSDT",
+        "delistTime": "2026-04-28T10:00:00Z"
+      },
+      {
+        "contract": "ZKJUSDT",
+        "delistTime": "2026-04-29T09:00:00Z"
+      }
+    ],
+    "bingx": [
+      {
+        "contract": "CHIBI-USDT",
+        "delistTime": "2026-04-29T04:01:42.361744847Z"
+      },
+      {
+        "contract": "NCSISP5002USD-USDT",
+        "delistTime": "2026-04-28T21:41:41.792193556Z"
+      }
+    ],
+    "bitget": [
+      {
+        "contract": "AIUSDT",
+        "delistTime": "2026-04-28T07:00:00Z"
+      },
+      {
+        "contract": "B3USDT",
+        "delistTime": "2026-04-28T07:00:00Z"
+      },
+      {
+        "contract": "BOBUSDT",
+        "delistTime": "2026-04-28T07:00:00Z"
+      },
+      {
+        "contract": "DEGENUSDT",
+        "delistTime": "2026-04-28T07:00:00Z"
+      },
+      {
+        "contract": "HNTUSDT",
+        "delistTime": "2026-04-28T07:00:00Z"
+      },
+      {
+        "contract": "IRUSDT",
+        "delistTime": "2026-04-28T07:00:00Z"
+      },
+      {
+        "contract": "VINEUSDT",
+        "delistTime": "2026-04-28T07:00:00Z"
+      },
+      {
+        "contract": "ZKJUSDT",
+        "delistTime": "2026-04-28T07:00:00Z"
+      }
+    ],
+    "bybit": [
+      {
+        "contract": "FIOUSDT",
+        "delistTime": "2026-04-30T09:00:00Z"
+      },
+      {
+        "contract": "RDNTUSDT",
+        "delistTime": "2026-04-30T09:00:00Z"
+      }
+    ],
+    "gate": [
+      {
+        "contract": "BGSC_USDT",
+        "delistTime": "2027-03-20T07:30:00Z"
+      }
+    ],
+    "kucoin": [
+      {
+        "contract": "AIUSDTM",
+        "delistTime": "2026-04-28T07:00:00Z"
+      },
+      {
+        "contract": "AUDIOUSDTM",
+        "delistTime": "2026-04-29T07:00:00Z"
+      },
+      {
+        "contract": "B3USDTM",
+        "delistTime": "2026-04-28T07:00:00Z"
+      },
+      {
+        "contract": "BOBBOBUSDTM",
+        "delistTime": "2026-04-28T07:00:00Z"
+      },
+      {
+        "contract": "DAMUSDTM",
+        "delistTime": "2026-04-29T07:00:00Z"
+      },
+      {
+        "contract": "DEGENUSDTM",
+        "delistTime": "2026-04-28T07:00:00Z"
+      },
+      {
+        "contract": "IRUSDTM",
+        "delistTime": "2026-04-29T07:00:00Z"
+      },
+      {
+        "contract": "NUMIUSDTM",
+        "delistTime": "2026-04-29T07:00:00Z"
+      },
+      {
+        "contract": "PRCLUSDTM",
+        "delistTime": "2026-04-29T07:00:00Z"
+      },
+      {
+        "contract": "SUPRAUSDTM",
+        "delistTime": "2026-04-29T07:00:00Z"
+      },
+      {
+        "contract": "VINEUSDTM",
+        "delistTime": "2026-04-28T07:00:00Z"
+      },
+      {
+        "contract": "ZKJUSDTM",
+        "delistTime": "2026-04-29T07:00:00Z"
+      }
+    ],
+    "mexc": [
+      {
+        "contract": "ACS_USDT",
+        "delistTime": "2026-04-29T07:00:00Z"
+      },
+      {
+        "contract": "AI_USDT",
+        "delistTime": "2026-04-28T09:00:00Z"
+      },
+      {
+        "contract": "CAPTCHA_USDT",
+        "delistTime": "2026-04-28T07:00:00Z"
+      },
+      {
+        "contract": "DAM_USDT",
+        "delistTime": "2026-04-29T08:00:00Z"
+      },
+      {
+        "contract": "DISTORTED_USDT",
+        "delistTime": "2026-04-28T07:00:00Z"
+      },
+      {
+        "contract": "FIO_USDT",
+        "delistTime": "2026-04-30T08:00:00Z"
+      },
+      {
+        "contract": "IR_USDT",
+        "delistTime": "2026-04-29T08:00:00Z"
+      },
+      {
+        "contract": "LOBSTAR_USDT",
+        "delistTime": "2026-04-29T07:00:00Z"
+      },
+      {
+        "contract": "LOL_USDT",
+        "delistTime": "2026-04-29T07:00:00Z"
+      },
+      {
+        "contract": "NTRN_USDT",
+        "delistTime": "2026-04-28T07:00:00Z"
+      },
+      {
+        "contract": "PUMPCADE_USDT",
+        "delistTime": "2026-04-29T07:00:00Z"
+      },
+      {
+        "contract": "PUNCH_USDT",
+        "delistTime": "2026-04-28T07:00:00Z"
+      },
+      {
+        "contract": "R2_USDT",
+        "delistTime": "2026-04-28T07:00:00Z"
+      },
+      {
+        "contract": "RDNT_USDT",
+        "delistTime": "2026-04-30T08:00:00Z"
+      },
+      {
+        "contract": "YZY_USDT",
+        "delistTime": "2026-04-30T08:00:00Z"
+      },
+      {
+        "contract": "ZKJ_USDT",
+        "delistTime": "2026-04-29T08:00:00Z"
+      }
+    ]
   }
 }
