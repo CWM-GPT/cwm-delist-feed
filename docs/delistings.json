@@ -13,16 +13,6 @@
       "delistTime": "2026-04-29T09:00:00Z"
     }
   ],
-  "bingx": [
-    {
-      "contract": "CHIBI-USDT",
-      "delistTime": "2026-04-29T04:01:42.361744847Z"
-    },
-    {
-      "contract": "NCSISP5002USD-USDT",
-      "delistTime": "2026-04-28T21:41:41.792193556Z"
-    }
-  ],
   "bitget": [
     {
       "contract": "AERGOUSDT",
@@ -36,6 +26,10 @@
     },
     {
       "contract": "RDNTUSDT",
+      "delistTime": "2026-04-30T09:00:00Z"
+    },
+    {
+      "contract": "BSUUSDT",
       "delistTime": "2026-04-30T09:00:00Z"
     }
   ],
