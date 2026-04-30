@@ -23,6 +23,14 @@
     {
       "contract": "BGSC_USDT",
       "delistTime": "2027-03-20T07:30:00Z"
+    },
+    {
+      "contract": "XBR_USDT",
+      "delistTime": "2026-05-15T07:30:00Z"
+    },
+    {
+      "contract": "XTI_USDT",
+      "delistTime": "2026-05-15T07:30:00Z"
     }
   ],
   "kucoin": [
