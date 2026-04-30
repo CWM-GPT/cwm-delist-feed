@@ -41,32 +41,8 @@
   ],
   "kucoin": [
     {
-      "contract": "AUDIOUSDTM",
-      "delistTime": "2026-04-29T07:00:00Z"
-    },
-    {
-      "contract": "PRCLUSDTM",
-      "delistTime": "2026-04-29T07:00:00Z"
-    },
-    {
-      "contract": "SUPRAUSDTM",
-      "delistTime": "2026-04-29T07:00:00Z"
-    },
-    {
-      "contract": "ZKJUSDTM",
-      "delistTime": "2026-04-29T07:00:00Z"
-    },
-    {
-      "contract": "DAMUSDTM",
-      "delistTime": "2026-04-29T07:00:00Z"
-    },
-    {
-      "contract": "IRUSDTM",
-      "delistTime": "2026-04-29T07:00:00Z"
-    },
-    {
-      "contract": "NUMIUSDTM",
-      "delistTime": "2026-04-29T07:00:00Z"
+      "contract": "BSUUSDTM",
+      "delistTime": "2026-04-30T10:00:00Z"
     }
   ],
   "mexc": [
@@ -97,22 +73,6 @@
     {
       "contract": "IR_USDT",
       "delistTime": "2026-04-29T08:00:00Z"
-    },
-    {
-      "contract": "PUMPCADE_USDT",
-      "delistTime": "2026-04-29T07:00:00Z"
-    },
-    {
-      "contract": "LOL_USDT",
-      "delistTime": "2026-04-29T07:00:00Z"
-    },
-    {
-      "contract": "ACS_USDT",
-      "delistTime": "2026-04-29T07:00:00Z"
-    },
-    {
-      "contract": "LOBSTAR_USDT",
-      "delistTime": "2026-04-29T07:00:00Z"
     }
   ]
 }
