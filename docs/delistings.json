@@ -1,22 +1,26 @@
 {
+  "bingx": [
+    {
+      "contract": "NCSIDOWJONES2USD-USDT",
+      "delistTime": "2026-05-01T20:53:52.1906669Z"
+    },
+    {
+      "contract": "NCSIRUSSELL20002USD-USDT",
+      "delistTime": "2026-05-01T20:53:52.190521998Z"
+    },
+    {
+      "contract": "NCSINIKKEI2252USD-USDT",
+      "delistTime": "2026-05-01T20:53:52.19051812Z"
+    },
+    {
+      "contract": "NCSINASDAQ1002USD-USDT",
+      "delistTime": "2026-05-01T20:53:52.19051603Z"
+    }
+  ],
   "bitget": [
     {
       "contract": "AERGOUSDT",
       "delistTime": "2026-05-02T07:00:00Z"
-    }
-  ],
-  "bybit": [
-    {
-      "contract": "FIOUSDT",
-      "delistTime": "2026-04-30T09:00:00Z"
-    },
-    {
-      "contract": "RDNTUSDT",
-      "delistTime": "2026-04-30T09:00:00Z"
-    },
-    {
-      "contract": "BSUUSDT",
-      "delistTime": "2026-04-30T09:00:00Z"
     }
   ],
   "gate": [
@@ -33,32 +37,10 @@
       "delistTime": "2026-05-15T07:30:00Z"
     }
   ],
-  "kucoin": [
-    {
-      "contract": "BSUUSDTM",
-      "delistTime": "2026-04-30T10:00:00Z"
-    }
-  ],
   "mexc": [
     {
       "contract": "AERGO_USDT",
       "delistTime": "2026-05-01T01:00:00Z"
-    },
-    {
-      "contract": "RDNT_USDT",
-      "delistTime": "2026-04-30T08:00:00Z"
-    },
-    {
-      "contract": "FIO_USDT",
-      "delistTime": "2026-04-30T08:00:00Z"
-    },
-    {
-      "contract": "YZY_USDT",
-      "delistTime": "2026-04-30T08:00:00Z"
-    },
-    {
-      "contract": "BSU_USDT",
-      "delistTime": "2026-04-30T02:00:00Z"
     }
   ]
 }
