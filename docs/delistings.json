@@ -1,6 +1,14 @@
 {
   "bingx": [
     {
+      "contract": "EVTN2125901-USDT",
+      "delistTime": "2026-05-02T08:03:49.252161474Z"
+    },
+    {
+      "contract": "EVTC2125901-USDT",
+      "delistTime": "2026-05-02T08:03:49.252160233Z"
+    },
+    {
       "contract": "NCSIDOWJONES2USD-USDT",
       "delistTime": "2026-05-01T20:53:52.1906669Z"
     },
@@ -35,12 +43,6 @@
     {
       "contract": "XTI_USDT",
       "delistTime": "2026-05-15T07:30:00Z"
-    }
-  ],
-  "mexc": [
-    {
-      "contract": "AERGO_USDT",
-      "delistTime": "2026-05-01T01:00:00Z"
     }
   ]
 }
