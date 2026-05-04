@@ -1,34 +1,8 @@
 {
   "bingx": [
     {
-      "contract": "EVTN2125901-USDT",
-      "delistTime": "2026-05-02T08:03:49.252161474Z"
-    },
-    {
-      "contract": "EVTC2125901-USDT",
-      "delistTime": "2026-05-02T08:03:49.252160233Z"
-    },
-    {
-      "contract": "NCSIDOWJONES2USD-USDT",
-      "delistTime": "2026-05-01T20:53:52.1906669Z"
-    },
-    {
-      "contract": "NCSIRUSSELL20002USD-USDT",
-      "delistTime": "2026-05-01T20:53:52.190521998Z"
-    },
-    {
-      "contract": "NCSINIKKEI2252USD-USDT",
-      "delistTime": "2026-05-01T20:53:52.19051812Z"
-    },
-    {
-      "contract": "NCSINASDAQ1002USD-USDT",
-      "delistTime": "2026-05-01T20:53:52.19051603Z"
-    }
-  ],
-  "bitget": [
-    {
-      "contract": "AERGOUSDT",
-      "delistTime": "2026-05-02T07:00:00Z"
+      "contract": "COPPERINU-USDT",
+      "delistTime": "2026-05-04T12:03:51.32812661Z"
     }
   ],
   "gate": [
