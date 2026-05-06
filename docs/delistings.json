@@ -1,4 +1,10 @@
 {
+  "bybit": [
+    {
+      "contract": "CLOUDUSDT",
+      "delistTime": "2026-05-08T09:00:00Z"
+    }
+  ],
   "gate": [
     {
       "contract": "BGSC_USDT",
