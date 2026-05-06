@@ -47,6 +47,10 @@
     {
       "contract": "MORI_USDT",
       "delistTime": "2026-05-11T07:00:00Z"
+    },
+    {
+      "contract": "CLOUD_USDT",
+      "delistTime": "2026-05-08T08:00:00Z"
     }
   ]
 }
