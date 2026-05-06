@@ -1,10 +1,4 @@
 {
-  "bingx": [
-    {
-      "contract": "COPPERINU-USDT",
-      "delistTime": "2026-05-04T12:03:51.32812661Z"
-    }
-  ],
   "gate": [
     {
       "contract": "BGSC_USDT",
@@ -17,6 +11,36 @@
     {
       "contract": "XTI_USDT",
       "delistTime": "2026-05-15T07:30:00Z"
+    }
+  ],
+  "mexc": [
+    {
+      "contract": "BELIEF_USDT",
+      "delistTime": "2026-05-11T07:00:00Z"
+    },
+    {
+      "contract": "TRIPLET_USDT",
+      "delistTime": "2026-05-11T07:00:00Z"
+    },
+    {
+      "contract": "GONGJIAN_USDT",
+      "delistTime": "2026-05-11T07:00:00Z"
+    },
+    {
+      "contract": "BTW_USDT",
+      "delistTime": "2026-05-11T07:00:00Z"
+    },
+    {
+      "contract": "ROLL_USDT",
+      "delistTime": "2026-05-11T07:00:00Z"
+    },
+    {
+      "contract": "BLOCK_USDT",
+      "delistTime": "2026-05-11T07:00:00Z"
+    },
+    {
+      "contract": "MORI_USDT",
+      "delistTime": "2026-05-11T07:00:00Z"
     }
   ]
 }
