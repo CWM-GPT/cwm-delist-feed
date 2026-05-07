@@ -49,6 +49,22 @@
       "delistTime": "2026-05-11T07:00:00Z"
     },
     {
+      "contract": "ALBSTOCK_USDT",
+      "delistTime": "2026-05-11T07:00:00Z"
+    },
+    {
+      "contract": "ACNSTOCK_USDT",
+      "delistTime": "2026-05-11T07:00:00Z"
+    },
+    {
+      "contract": "BBAISTOCK_USDT",
+      "delistTime": "2026-05-11T07:00:00Z"
+    },
+    {
+      "contract": "ACHRSTOCK_USDT",
+      "delistTime": "2026-05-11T07:00:00Z"
+    },
+    {
       "contract": "CLOUD_USDT",
       "delistTime": "2026-05-08T08:00:00Z"
     }
