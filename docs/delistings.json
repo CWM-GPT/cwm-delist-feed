@@ -65,6 +65,26 @@
       "delistTime": "2026-05-11T07:00:00Z"
     },
     {
+      "contract": "MELISTOCK_USDT",
+      "delistTime": "2026-05-11T07:00:00Z"
+    },
+    {
+      "contract": "PEPSTOCK_USDT",
+      "delistTime": "2026-05-11T07:00:00Z"
+    },
+    {
+      "contract": "LINSTOCK_USDT",
+      "delistTime": "2026-05-11T07:00:00Z"
+    },
+    {
+      "contract": "ABTSTOCK_USDT",
+      "delistTime": "2026-05-11T07:00:00Z"
+    },
+    {
+      "contract": "GSSTOCK_USDT",
+      "delistTime": "2026-05-11T07:00:00Z"
+    },
+    {
       "contract": "CLOUD_USDT",
       "delistTime": "2026-05-08T08:00:00Z"
     }
