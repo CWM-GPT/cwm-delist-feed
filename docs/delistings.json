@@ -1,8 +1,12 @@
 {
-  "bybit": [
+  "bingx": [
     {
-      "contract": "CLOUDUSDT",
-      "delistTime": "2026-05-08T09:00:00Z"
+      "contract": "NCSI724SP5002USD-USDT",
+      "delistTime": "2026-05-09T10:58:51.728811379Z"
+    },
+    {
+      "contract": "NCSI724NASDAQ1002USD-USDT",
+      "delistTime": "2026-05-09T10:58:51.728809858Z"
     }
   ],
   "gate": [
@@ -83,10 +87,6 @@
     {
       "contract": "GSSTOCK_USDT",
       "delistTime": "2026-05-11T07:00:00Z"
-    },
-    {
-      "contract": "CLOUD_USDT",
-      "delistTime": "2026-05-08T08:00:00Z"
     }
   ]
 }
