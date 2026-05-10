@@ -1,12 +1,20 @@
 {
   "bingx": [
     {
-      "contract": "NCSI724SP5002USD-USDT",
-      "delistTime": "2026-05-09T10:58:51.728811379Z"
+      "contract": "BELIEF-USDT",
+      "delistTime": "2026-05-10T12:03:51.400834107Z"
     },
     {
-      "contract": "NCSI724NASDAQ1002USD-USDT",
-      "delistTime": "2026-05-09T10:58:51.728809858Z"
+      "contract": "BTW-USDT",
+      "delistTime": "2026-05-10T12:03:51.400827779Z"
+    },
+    {
+      "contract": "HODL-USDT",
+      "delistTime": "2026-05-10T12:03:51.400820226Z"
+    },
+    {
+      "contract": "MORI-USDT",
+      "delistTime": "2026-05-10T12:03:51.400812676Z"
     }
   ],
   "gate": [
