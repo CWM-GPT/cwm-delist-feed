@@ -1,22 +1,4 @@
 {
-  "bingx": [
-    {
-      "contract": "BELIEF-USDT",
-      "delistTime": "2026-05-10T12:03:51.400834107Z"
-    },
-    {
-      "contract": "BTW-USDT",
-      "delistTime": "2026-05-10T12:03:51.400827779Z"
-    },
-    {
-      "contract": "HODL-USDT",
-      "delistTime": "2026-05-10T12:03:51.400820226Z"
-    },
-    {
-      "contract": "MORI-USDT",
-      "delistTime": "2026-05-10T12:03:51.400812676Z"
-    }
-  ],
   "gate": [
     {
       "contract": "BGSC_USDT",
@@ -33,68 +15,20 @@
   ],
   "mexc": [
     {
-      "contract": "BELIEF_USDT",
-      "delistTime": "2026-05-11T07:00:00Z"
+      "contract": "FLORK_USDT",
+      "delistTime": "2026-05-15T07:00:00Z"
     },
     {
-      "contract": "TRIPLET_USDT",
-      "delistTime": "2026-05-11T07:00:00Z"
+      "contract": "PEACE_USDT",
+      "delistTime": "2026-05-15T07:00:00Z"
     },
     {
-      "contract": "GONGJIAN_USDT",
-      "delistTime": "2026-05-11T07:00:00Z"
+      "contract": "CYPR_USDT",
+      "delistTime": "2026-05-15T07:00:00Z"
     },
     {
-      "contract": "BTW_USDT",
-      "delistTime": "2026-05-11T07:00:00Z"
-    },
-    {
-      "contract": "ROLL_USDT",
-      "delistTime": "2026-05-11T07:00:00Z"
-    },
-    {
-      "contract": "BLOCK_USDT",
-      "delistTime": "2026-05-11T07:00:00Z"
-    },
-    {
-      "contract": "MORI_USDT",
-      "delistTime": "2026-05-11T07:00:00Z"
-    },
-    {
-      "contract": "ALBSTOCK_USDT",
-      "delistTime": "2026-05-11T07:00:00Z"
-    },
-    {
-      "contract": "ACNSTOCK_USDT",
-      "delistTime": "2026-05-11T07:00:00Z"
-    },
-    {
-      "contract": "BBAISTOCK_USDT",
-      "delistTime": "2026-05-11T07:00:00Z"
-    },
-    {
-      "contract": "ACHRSTOCK_USDT",
-      "delistTime": "2026-05-11T07:00:00Z"
-    },
-    {
-      "contract": "MELISTOCK_USDT",
-      "delistTime": "2026-05-11T07:00:00Z"
-    },
-    {
-      "contract": "PEPSTOCK_USDT",
-      "delistTime": "2026-05-11T07:00:00Z"
-    },
-    {
-      "contract": "LINSTOCK_USDT",
-      "delistTime": "2026-05-11T07:00:00Z"
-    },
-    {
-      "contract": "ABTSTOCK_USDT",
-      "delistTime": "2026-05-11T07:00:00Z"
-    },
-    {
-      "contract": "GSSTOCK_USDT",
-      "delistTime": "2026-05-11T07:00:00Z"
+      "contract": "TOKEN_USDT",
+      "delistTime": "2026-05-15T07:00:00Z"
     }
   ]
 }
