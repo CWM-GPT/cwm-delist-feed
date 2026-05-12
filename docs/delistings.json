@@ -1,4 +1,10 @@
 {
+  "bingx": [
+    {
+      "contract": "NCSIKOSPI2USD-USDT",
+      "delistTime": "2026-05-12T19:18:48.041150395Z"
+    }
+  ],
   "bybit": [
     {
       "contract": "10000QUBICUSDT",
