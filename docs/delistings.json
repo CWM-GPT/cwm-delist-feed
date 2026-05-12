@@ -1,4 +1,18 @@
 {
+  "bybit": [
+    {
+      "contract": "10000QUBICUSDT",
+      "delistTime": "2026-05-14T10:00:00Z"
+    },
+    {
+      "contract": "DEGENUSDT",
+      "delistTime": "2026-05-14T10:00:00Z"
+    },
+    {
+      "contract": "OXTUSDT",
+      "delistTime": "2026-05-14T10:00:00Z"
+    }
+  ],
   "gate": [
     {
       "contract": "BGSC_USDT",
