@@ -43,6 +43,14 @@
     {
       "contract": "TOKEN_USDT",
       "delistTime": "2026-05-15T07:00:00Z"
+    },
+    {
+      "contract": "DEGEN_USDT",
+      "delistTime": "2026-05-14T09:00:00Z"
+    },
+    {
+      "contract": "QUBIC_USDT",
+      "delistTime": "2026-05-14T09:00:00Z"
     }
   ]
 }
