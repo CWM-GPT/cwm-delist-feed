@@ -51,6 +51,10 @@
     {
       "contract": "QUBIC_USDT",
       "delistTime": "2026-05-14T09:00:00Z"
+    },
+    {
+      "contract": "OXT_USDT",
+      "delistTime": "2026-05-14T09:00:00Z"
     }
   ]
 }
