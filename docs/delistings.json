@@ -53,6 +53,26 @@
   ],
   "mexc": [
     {
+      "contract": "PHB_USDT",
+      "delistTime": "2026-05-19T08:00:00Z"
+    },
+    {
+      "contract": "FARM_USDT",
+      "delistTime": "2026-05-19T08:00:00Z"
+    },
+    {
+      "contract": "ATA_USDT",
+      "delistTime": "2026-05-19T08:00:00Z"
+    },
+    {
+      "contract": "SYS_USDT",
+      "delistTime": "2026-05-19T08:00:00Z"
+    },
+    {
+      "contract": "MLN_USDT",
+      "delistTime": "2026-05-19T08:00:00Z"
+    },
+    {
       "contract": "FLORK_USDT",
       "delistTime": "2026-05-15T07:00:00Z"
     },
