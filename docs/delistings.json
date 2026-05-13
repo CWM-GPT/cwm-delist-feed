@@ -1,4 +1,22 @@
 {
+  "binance": [
+    {
+      "contract": "ATAUSDT",
+      "delistTime": "2026-05-19T09:00:00Z"
+    },
+    {
+      "contract": "PHBUSDT",
+      "delistTime": "2026-05-19T09:00:00Z"
+    },
+    {
+      "contract": "SYSUSDT",
+      "delistTime": "2026-05-19T09:00:00Z"
+    },
+    {
+      "contract": "MLNUSDT",
+      "delistTime": "2026-05-19T09:00:00Z"
+    }
+  ],
   "bingx": [
     {
       "contract": "NCSIKOSPI2USD-USDT",
