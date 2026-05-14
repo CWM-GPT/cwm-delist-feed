@@ -17,6 +17,12 @@
       "delistTime": "2026-05-19T09:00:00Z"
     }
   ],
+  "bingx": [
+    {
+      "contract": "PEACE-USDT",
+      "delistTime": "2026-05-14T12:03:47.996360158Z"
+    }
+  ],
   "bybit": [
     {
       "contract": "10000QUBICUSDT",
