@@ -49,6 +49,10 @@
     {
       "contract": "PHBUSDTM",
       "delistTime": "2026-05-19T07:00:00Z"
+    },
+    {
+      "contract": "MLNUSDTM",
+      "delistTime": "2026-05-19T07:00:00Z"
     }
   ],
   "mexc": [
