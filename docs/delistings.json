@@ -17,12 +17,6 @@
       "delistTime": "2026-05-19T09:00:00Z"
     }
   ],
-  "bingx": [
-    {
-      "contract": "NCSIKOSPI2USD-USDT",
-      "delistTime": "2026-05-12T19:18:48.041150395Z"
-    }
-  ],
   "bybit": [
     {
       "contract": "10000QUBICUSDT",
@@ -49,6 +43,12 @@
     {
       "contract": "XTI_USDT",
       "delistTime": "2026-05-15T07:30:00Z"
+    }
+  ],
+  "kucoin": [
+    {
+      "contract": "PHBUSDTM",
+      "delistTime": "2026-05-19T07:00:00Z"
     }
   ],
   "mexc": [
