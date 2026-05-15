@@ -23,6 +23,16 @@
       "delistTime": "2026-05-14T12:03:47.996360158Z"
     }
   ],
+  "bitget": [
+    {
+      "contract": "MLNUSDT",
+      "delistTime": "2026-05-19T07:00:00Z"
+    },
+    {
+      "contract": "ATAUSDT",
+      "delistTime": "2026-05-19T07:00:00Z"
+    }
+  ],
   "bybit": [
     {
       "contract": "10000QUBICUSDT",
