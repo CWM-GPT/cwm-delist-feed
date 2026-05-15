@@ -33,20 +33,6 @@
       "delistTime": "2026-05-19T07:00:00Z"
     }
   ],
-  "bybit": [
-    {
-      "contract": "10000QUBICUSDT",
-      "delistTime": "2026-05-14T10:00:00Z"
-    },
-    {
-      "contract": "DEGENUSDT",
-      "delistTime": "2026-05-14T10:00:00Z"
-    },
-    {
-      "contract": "OXTUSDT",
-      "delistTime": "2026-05-14T10:00:00Z"
-    }
-  ],
   "gate": [
     {
       "contract": "BGSC_USDT",
@@ -72,6 +58,14 @@
     }
   ],
   "mexc": [
+    {
+      "contract": "HAJIMI_USDT",
+      "delistTime": "2026-05-20T07:00:00Z"
+    },
+    {
+      "contract": "FTT_USDT",
+      "delistTime": "2026-05-20T07:00:00Z"
+    },
     {
       "contract": "PHB_USDT",
       "delistTime": "2026-05-19T08:00:00Z"
@@ -107,18 +101,6 @@
     {
       "contract": "TOKEN_USDT",
       "delistTime": "2026-05-15T07:00:00Z"
-    },
-    {
-      "contract": "DEGEN_USDT",
-      "delistTime": "2026-05-14T09:00:00Z"
-    },
-    {
-      "contract": "QUBIC_USDT",
-      "delistTime": "2026-05-14T09:00:00Z"
-    },
-    {
-      "contract": "OXT_USDT",
-      "delistTime": "2026-05-14T09:00:00Z"
     }
   ]
 }
