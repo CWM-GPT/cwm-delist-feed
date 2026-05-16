@@ -17,12 +17,6 @@
       "delistTime": "2026-05-19T09:00:00Z"
     }
   ],
-  "bingx": [
-    {
-      "contract": "PEACE-USDT",
-      "delistTime": "2026-05-14T12:03:47.996360158Z"
-    }
-  ],
   "bitget": [
     {
       "contract": "MLNUSDT",
@@ -37,14 +31,6 @@
     {
       "contract": "BGSC_USDT",
       "delistTime": "2027-03-20T07:30:00Z"
-    },
-    {
-      "contract": "XBR_USDT",
-      "delistTime": "2026-05-15T07:30:00Z"
-    },
-    {
-      "contract": "XTI_USDT",
-      "delistTime": "2026-05-15T07:30:00Z"
     }
   ],
   "kucoin": [
@@ -85,22 +71,6 @@
     {
       "contract": "MLN_USDT",
       "delistTime": "2026-05-19T08:00:00Z"
-    },
-    {
-      "contract": "FLORK_USDT",
-      "delistTime": "2026-05-15T07:00:00Z"
-    },
-    {
-      "contract": "PEACE_USDT",
-      "delistTime": "2026-05-15T07:00:00Z"
-    },
-    {
-      "contract": "CYPR_USDT",
-      "delistTime": "2026-05-15T07:00:00Z"
-    },
-    {
-      "contract": "TOKEN_USDT",
-      "delistTime": "2026-05-15T07:00:00Z"
     }
   ]
 }
