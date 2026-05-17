@@ -17,6 +17,16 @@
       "delistTime": "2026-05-19T09:00:00Z"
     }
   ],
+  "bingx": [
+    {
+      "contract": "SN3-USDT",
+      "delistTime": "2026-05-17T12:04:33.905239638Z"
+    },
+    {
+      "contract": "FIXIN1DAY-USDT",
+      "delistTime": "2026-05-17T12:04:33.90523565Z"
+    }
+  ],
   "bitget": [
     {
       "contract": "MLNUSDT",
