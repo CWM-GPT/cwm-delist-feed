@@ -231,6 +231,10 @@
       "eventDate": "2026-05-18T09:30:00Z"
     },
     {
+      "contract": "GLWUSDTM",
+      "eventDate": "2026-05-18T09:30:00Z"
+    },
+    {
       "contract": "DISUSDTM",
       "eventDate": "2026-05-15T14:05:00Z"
     },
