@@ -1,0 +1,320 @@
+{
+  "binance": [
+    {
+      "contract": "BTCUSD1",
+      "eventDate": "2026-05-18T09:00:00Z"
+    },
+    {
+      "contract": "STARUSDT",
+      "eventDate": "2026-05-14T05:30:00Z"
+    },
+    {
+      "contract": "PHAROSUSDT",
+      "eventDate": "2026-05-14T05:15:00Z"
+    }
+  ],
+  "bingx": [
+    {
+      "contract": "HOOLI-USDT",
+      "eventDate": "2026-05-15T12:30:00Z"
+    },
+    {
+      "contract": "BABYSHARK-USDT",
+      "eventDate": "2026-05-15T10:00:00Z"
+    },
+    {
+      "contract": "NCSKAMAT2USD-USDT",
+      "eventDate": "2026-05-14T10:00:00Z"
+    },
+    {
+      "contract": "NCSKLRCX2USD-USDT",
+      "eventDate": "2026-05-14T10:00:00Z"
+    },
+    {
+      "contract": "STAR-USDT",
+      "eventDate": "2026-05-14T09:00:00Z"
+    },
+    {
+      "contract": "RKC-USDT",
+      "eventDate": "2026-05-13T09:00:00Z"
+    },
+    {
+      "contract": "FHE-USDT",
+      "eventDate": "2026-05-13T07:40:00Z"
+    },
+    {
+      "contract": "NCSKSKHYNIX2USD-USDT",
+      "eventDate": "2026-05-12T09:00:00Z"
+    },
+    {
+      "contract": "NCSKRKLB2USD-USDT",
+      "eventDate": "2026-05-12T09:00:00Z"
+    },
+    {
+      "contract": "NCSKAAOI2USD-USDT",
+      "eventDate": "2026-05-12T09:00:00Z"
+    },
+    {
+      "contract": "NCSKSAMSUNG2USD-USDT",
+      "eventDate": "2026-05-12T09:00:00Z"
+    },
+    {
+      "contract": "NCSIKOSPI2USD-USDT",
+      "eventDate": "2026-05-12T09:00:00Z"
+    },
+    {
+      "contract": "ALCH-USDT",
+      "eventDate": "2026-05-12T03:20:00Z"
+    },
+    {
+      "contract": "DOLPHIN-USDT",
+      "eventDate": "2026-05-11T09:00:00Z"
+    }
+  ],
+  "bitget": [
+    {
+      "contract": "ETNUSDT",
+      "eventDate": "2026-05-12T08:33:25Z"
+    },
+    {
+      "contract": "VRTUSDT",
+      "eventDate": "2026-05-12T08:33:20Z"
+    },
+    {
+      "contract": "INFQUSDT",
+      "eventDate": "2026-05-12T08:33:16Z"
+    },
+    {
+      "contract": "CBRSUSDT",
+      "eventDate": "2026-05-12T04:36:03Z"
+    }
+  ],
+  "bybit": [
+    {
+      "contract": "PHAROSUSDT",
+      "eventDate": "2026-05-14T08:12:36Z"
+    },
+    {
+      "contract": "IWMUSDT",
+      "eventDate": "2026-05-14T08:05:22Z"
+    },
+    {
+      "contract": "LLYUSDT",
+      "eventDate": "2026-05-14T08:03:44Z"
+    },
+    {
+      "contract": "BMNRUSDT",
+      "eventDate": "2026-05-14T07:59:22Z"
+    },
+    {
+      "contract": "BZUSDT",
+      "eventDate": "2026-05-13T08:08:32Z"
+    },
+    {
+      "contract": "ARMUSDT",
+      "eventDate": "2026-05-13T08:07:07Z"
+    },
+    {
+      "contract": "MRVLUSDT",
+      "eventDate": "2026-05-13T08:05:41Z"
+    },
+    {
+      "contract": "BABAUSDT",
+      "eventDate": "2026-05-13T08:03:12Z"
+    },
+    {
+      "contract": "CRWVUSDT",
+      "eventDate": "2026-05-12T08:21:51Z"
+    },
+    {
+      "contract": "LITEUSDT",
+      "eventDate": "2026-05-12T08:17:02Z"
+    },
+    {
+      "contract": "AVGOUSDT",
+      "eventDate": "2026-05-12T08:12:28Z"
+    }
+  ],
+  "gate": [
+    {
+      "contract": "FLNC_USDT",
+      "eventDate": "2026-05-18T04:57:37Z"
+    },
+    {
+      "contract": "IWM_USDT",
+      "eventDate": "2026-05-18T04:55:35Z"
+    },
+    {
+      "contract": "SHLD_USDT",
+      "eventDate": "2026-05-18T04:54:59Z"
+    },
+    {
+      "contract": "HIMS_USDT",
+      "eventDate": "2026-05-18T04:54:01Z"
+    },
+    {
+      "contract": "DRAM_USDT",
+      "eventDate": "2026-05-18T04:47:56Z"
+    },
+    {
+      "contract": "CBRS_USDT",
+      "eventDate": "2026-05-15T06:12:12Z"
+    },
+    {
+      "contract": "BRKB_USDT",
+      "eventDate": "2026-05-14T11:10:10Z"
+    },
+    {
+      "contract": "SOXL_USDT",
+      "eventDate": "2026-05-14T11:09:33Z"
+    },
+    {
+      "contract": "STAR_USDT",
+      "eventDate": "2026-05-14T06:08:38Z"
+    },
+    {
+      "contract": "AMAT_USDT",
+      "eventDate": "2026-05-14T05:56:20Z"
+    },
+    {
+      "contract": "RKLB_USDT",
+      "eventDate": "2026-05-14T05:55:45Z"
+    },
+    {
+      "contract": "DIS_USDT",
+      "eventDate": "2026-05-14T05:55:14Z"
+    },
+    {
+      "contract": "HD_USDT",
+      "eventDate": "2026-05-13T12:17:17Z"
+    },
+    {
+      "contract": "UBER_USDT",
+      "eventDate": "2026-05-13T12:16:47Z"
+    },
+    {
+      "contract": "TRAHK_USDT",
+      "eventDate": "2026-05-12T04:34:13Z"
+    }
+  ],
+  "kucoin": [
+    {
+      "contract": "WMTUSDTM",
+      "eventDate": "2026-05-18T14:05:00Z"
+    },
+    {
+      "contract": "JPMUSDTM",
+      "eventDate": "2026-05-18T14:05:00Z"
+    },
+    {
+      "contract": "VUSDTM",
+      "eventDate": "2026-05-18T14:05:00Z"
+    },
+    {
+      "contract": "BRKBUSDTM",
+      "eventDate": "2026-05-18T14:05:00Z"
+    },
+    {
+      "contract": "FLNCUSDTM",
+      "eventDate": "2026-05-18T14:05:00Z"
+    },
+    {
+      "contract": "DISUSDTM",
+      "eventDate": "2026-05-15T14:05:00Z"
+    },
+    {
+      "contract": "UBERUSDTM",
+      "eventDate": "2026-05-15T14:05:00Z"
+    },
+    {
+      "contract": "CSCOUSDTM",
+      "eventDate": "2026-05-15T14:05:00Z"
+    },
+    {
+      "contract": "HDUSDTM",
+      "eventDate": "2026-05-15T14:05:00Z"
+    },
+    {
+      "contract": "CBRSUSDTM",
+      "eventDate": "2026-05-15T08:00:00Z"
+    },
+    {
+      "contract": "SOXLUSDTM",
+      "eventDate": "2026-05-15T03:00:00Z"
+    },
+    {
+      "contract": "COHRUSDTM",
+      "eventDate": "2026-05-13T10:45:00Z"
+    },
+    {
+      "contract": "RKLBUSDTM",
+      "eventDate": "2026-05-12T11:00:00Z"
+    },
+    {
+      "contract": "MRVLUSDTM",
+      "eventDate": "2026-05-12T11:00:00Z"
+    },
+    {
+      "contract": "WDCUSDTM",
+      "eventDate": "2026-05-12T11:00:00Z"
+    },
+    {
+      "contract": "DRAMUSDTM",
+      "eventDate": "2026-05-11T09:00:00Z"
+    },
+    {
+      "contract": "HIMSUSDTM",
+      "eventDate": "2026-05-11T09:00:00Z"
+    }
+  ],
+  "mexc": [
+    {
+      "contract": "GITLAWB_USDT",
+      "eventDate": "2026-05-16T08:10:00Z"
+    },
+    {
+      "contract": "HDSTOCK_USDT",
+      "eventDate": "2026-05-15T14:10:00Z"
+    },
+    {
+      "contract": "DISSTOCK_USDT",
+      "eventDate": "2026-05-15T13:55:00Z"
+    },
+    {
+      "contract": "HOOLI_USDT",
+      "eventDate": "2026-05-15T11:20:00Z"
+    },
+    {
+      "contract": "BRKBSTOCK_USDT",
+      "eventDate": "2026-05-15T05:55:00Z"
+    },
+    {
+      "contract": "CBRSSTOCK_USDT",
+      "eventDate": "2026-05-15T03:45:00Z"
+    },
+    {
+      "contract": "STAR_USDT",
+      "eventDate": "2026-05-14T06:05:00Z"
+    },
+    {
+      "contract": "ASTEROIDSOL_USDT",
+      "eventDate": "2026-05-13T05:10:00Z"
+    },
+    {
+      "contract": "RKC_USDT",
+      "eventDate": "2026-05-13T05:10:00Z"
+    },
+    {
+      "contract": "SHLD_USDT",
+      "eventDate": "2026-05-12T12:15:00Z"
+    },
+    {
+      "contract": "XLE_USDT",
+      "eventDate": "2026-05-11T11:40:00Z"
+    },
+    {
+      "contract": "POD_USDT",
+      "eventDate": "2026-05-11T06:50:00Z"
+    }
+  ]
+}
