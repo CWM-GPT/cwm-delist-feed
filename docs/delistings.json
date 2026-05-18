@@ -19,6 +19,10 @@
   ],
   "bingx": [
     {
+      "contract": "PHB-USDT",
+      "delistTime": "2026-05-18T12:04:03.641517732Z"
+    },
+    {
       "contract": "SN3-USDT",
       "delistTime": "2026-05-17T12:04:33.905239638Z"
     },
