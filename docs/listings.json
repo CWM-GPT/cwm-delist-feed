@@ -65,10 +65,6 @@
     {
       "contract": "ALCH-USDT",
       "eventDate": "2026-05-12T03:20:00Z"
-    },
-    {
-      "contract": "DOLPHIN-USDT",
-      "eventDate": "2026-05-11T09:00:00Z"
     }
   ],
   "bitget": [
@@ -277,17 +273,13 @@
     {
       "contract": "WDCUSDTM",
       "eventDate": "2026-05-12T11:00:00Z"
-    },
-    {
-      "contract": "DRAMUSDTM",
-      "eventDate": "2026-05-11T09:00:00Z"
-    },
-    {
-      "contract": "HIMSUSDTM",
-      "eventDate": "2026-05-11T09:00:00Z"
     }
   ],
   "mexc": [
+    {
+      "contract": "FLNCSTOCK_USDT",
+      "eventDate": "2026-05-18T14:10:00Z"
+    },
     {
       "contract": "AEON_USDT",
       "eventDate": "2026-05-18T09:15:00Z"
