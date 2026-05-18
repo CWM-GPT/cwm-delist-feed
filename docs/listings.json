@@ -15,6 +15,10 @@
   ],
   "bingx": [
     {
+      "contract": "GITLAWB-USDT",
+      "eventDate": "2026-05-18T10:10:00Z"
+    },
+    {
       "contract": "HOOLI-USDT",
       "eventDate": "2026-05-15T12:30:00Z"
     },
