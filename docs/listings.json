@@ -289,6 +289,14 @@
   ],
   "mexc": [
     {
+      "contract": "AEON_USDT",
+      "eventDate": "2026-05-18T09:15:00Z"
+    },
+    {
+      "contract": "GLWSTOCK_USDT",
+      "eventDate": "2026-05-18T09:15:00Z"
+    },
+    {
       "contract": "GITLAWB_USDT",
       "eventDate": "2026-05-16T08:10:00Z"
     },
