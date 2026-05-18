@@ -219,6 +219,18 @@
       "eventDate": "2026-05-18T14:05:00Z"
     },
     {
+      "contract": "TQQQUSDTM",
+      "eventDate": "2026-05-18T09:30:00Z"
+    },
+    {
+      "contract": "MCDUSDTM",
+      "eventDate": "2026-05-18T09:30:00Z"
+    },
+    {
+      "contract": "AAOIUSDTM",
+      "eventDate": "2026-05-18T09:30:00Z"
+    },
+    {
       "contract": "DISUSDTM",
       "eventDate": "2026-05-15T14:05:00Z"
     },
@@ -311,10 +323,6 @@
     {
       "contract": "XLE_USDT",
       "eventDate": "2026-05-11T11:40:00Z"
-    },
-    {
-      "contract": "POD_USDT",
-      "eventDate": "2026-05-11T06:50:00Z"
     }
   ]
 }
