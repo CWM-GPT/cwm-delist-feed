@@ -15,6 +15,10 @@
   ],
   "bingx": [
     {
+      "contract": "RON-USDT",
+      "eventDate": "2026-05-19T04:10:00Z"
+    },
+    {
       "contract": "GITLAWB-USDT",
       "eventDate": "2026-05-18T10:10:00Z"
     },
@@ -65,10 +69,6 @@
     {
       "contract": "NCSIKOSPI2USD-USDT",
       "eventDate": "2026-05-12T09:00:00Z"
-    },
-    {
-      "contract": "ALCH-USDT",
-      "eventDate": "2026-05-12T03:20:00Z"
     }
   ],
   "bitget": [
@@ -331,10 +331,6 @@
     {
       "contract": "SHLD_USDT",
       "eventDate": "2026-05-12T12:15:00Z"
-    },
-    {
-      "contract": "XLE_USDT",
-      "eventDate": "2026-05-11T11:40:00Z"
     }
   ]
 }
