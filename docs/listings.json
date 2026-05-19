@@ -215,6 +215,22 @@
   ],
   "kucoin": [
     {
+      "contract": "NBISUSDTM",
+      "eventDate": "2026-05-19T09:30:00Z"
+    },
+    {
+      "contract": "XOMUSDTM",
+      "eventDate": "2026-05-19T09:30:00Z"
+    },
+    {
+      "contract": "SQQQUSDTM",
+      "eventDate": "2026-05-19T09:30:00Z"
+    },
+    {
+      "contract": "SOXSUSDTM",
+      "eventDate": "2026-05-19T09:30:00Z"
+    },
+    {
       "contract": "WMTUSDTM",
       "eventDate": "2026-05-18T14:05:00Z"
     },
