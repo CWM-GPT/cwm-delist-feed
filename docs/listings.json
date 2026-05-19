@@ -1,6 +1,10 @@
 {
   "binance": [
     {
+      "contract": "CBRSUSDT",
+      "eventDate": "2026-05-19T09:30:00Z"
+    },
+    {
       "contract": "BTCUSD1",
       "eventDate": "2026-05-18T09:00:00Z"
     },
