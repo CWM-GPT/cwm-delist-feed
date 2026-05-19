@@ -19,6 +19,22 @@
   ],
   "bingx": [
     {
+      "contract": "NCSKCBRS2USD-USDT",
+      "eventDate": "2026-05-19T10:30:00Z"
+    },
+    {
+      "contract": "NCSKAXTI2USD-USDT",
+      "eventDate": "2026-05-19T08:30:00Z"
+    },
+    {
+      "contract": "NCSKLMT2USD-USDT",
+      "eventDate": "2026-05-19T08:30:00Z"
+    },
+    {
+      "contract": "NCSKIONQ2USD-USDT",
+      "eventDate": "2026-05-19T08:30:00Z"
+    },
+    {
       "contract": "RON-USDT",
       "eventDate": "2026-05-19T04:10:00Z"
     },
@@ -87,10 +103,6 @@
     {
       "contract": "INFQUSDT",
       "eventDate": "2026-05-12T08:33:16Z"
-    },
-    {
-      "contract": "CBRSUSDT",
-      "eventDate": "2026-05-12T04:36:03Z"
     }
   ],
   "bybit": [
@@ -199,10 +211,6 @@
     {
       "contract": "UBER_USDT",
       "eventDate": "2026-05-13T12:16:47Z"
-    },
-    {
-      "contract": "TRAHK_USDT",
-      "eventDate": "2026-05-12T04:34:13Z"
     }
   ],
   "kucoin": [
