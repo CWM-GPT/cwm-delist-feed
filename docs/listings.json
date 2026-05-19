@@ -93,6 +93,46 @@
   ],
   "bitget": [
     {
+      "contract": "CSCOUSDT",
+      "eventDate": "2026-05-18T11:33:18Z"
+    },
+    {
+      "contract": "SMCIUSDT",
+      "eventDate": "2026-05-18T11:09:30Z"
+    },
+    {
+      "contract": "WDCUSDT",
+      "eventDate": "2026-05-18T11:09:27Z"
+    },
+    {
+      "contract": "QCOMUSDT",
+      "eventDate": "2026-05-18T11:09:25Z"
+    },
+    {
+      "contract": "RDWUSDT",
+      "eventDate": "2026-05-18T11:09:22Z"
+    },
+    {
+      "contract": "ASTSUSDT",
+      "eventDate": "2026-05-18T11:09:20Z"
+    },
+    {
+      "contract": "ONDSUSDT",
+      "eventDate": "2026-05-18T11:09:17Z"
+    },
+    {
+      "contract": "POETUSDT",
+      "eventDate": "2026-05-18T11:09:15Z"
+    },
+    {
+      "contract": "OUSTUSDT",
+      "eventDate": "2026-05-18T11:09:13Z"
+    },
+    {
+      "contract": "NOKSTOCKUSDT",
+      "eventDate": "2026-05-18T11:09:10Z"
+    },
+    {
       "contract": "ETNUSDT",
       "eventDate": "2026-05-12T08:33:25Z"
     },
