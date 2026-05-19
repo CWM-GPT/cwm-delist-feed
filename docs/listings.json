@@ -19,6 +19,10 @@
   ],
   "bingx": [
     {
+      "contract": "ZEST-USDT",
+      "eventDate": "2026-05-20T03:00:00Z"
+    },
+    {
       "contract": "NCSKCBRS2USD-USDT",
       "eventDate": "2026-05-19T10:30:00Z"
     },
@@ -351,10 +355,6 @@
     {
       "contract": "RKC_USDT",
       "eventDate": "2026-05-13T05:10:00Z"
-    },
-    {
-      "contract": "SHLD_USDT",
-      "eventDate": "2026-05-12T12:15:00Z"
     }
   ]
 }
