@@ -69,26 +69,6 @@
     {
       "contract": "FHE-USDT",
       "eventDate": "2026-05-13T07:40:00Z"
-    },
-    {
-      "contract": "NCSKSKHYNIX2USD-USDT",
-      "eventDate": "2026-05-12T09:00:00Z"
-    },
-    {
-      "contract": "NCSKRKLB2USD-USDT",
-      "eventDate": "2026-05-12T09:00:00Z"
-    },
-    {
-      "contract": "NCSKAAOI2USD-USDT",
-      "eventDate": "2026-05-12T09:00:00Z"
-    },
-    {
-      "contract": "NCSKSAMSUNG2USD-USDT",
-      "eventDate": "2026-05-12T09:00:00Z"
-    },
-    {
-      "contract": "NCSIKOSPI2USD-USDT",
-      "eventDate": "2026-05-12T09:00:00Z"
     }
   ],
   "bitget": [
@@ -317,21 +297,13 @@
     {
       "contract": "COHRUSDTM",
       "eventDate": "2026-05-13T10:45:00Z"
-    },
-    {
-      "contract": "RKLBUSDTM",
-      "eventDate": "2026-05-12T11:00:00Z"
-    },
-    {
-      "contract": "MRVLUSDTM",
-      "eventDate": "2026-05-12T11:00:00Z"
-    },
-    {
-      "contract": "WDCUSDTM",
-      "eventDate": "2026-05-12T11:00:00Z"
     }
   ],
   "mexc": [
+    {
+      "contract": "ZEST_USDT",
+      "eventDate": "2026-05-19T13:10:00Z"
+    },
     {
       "contract": "FLNCSTOCK_USDT",
       "eventDate": "2026-05-18T14:10:00Z"
