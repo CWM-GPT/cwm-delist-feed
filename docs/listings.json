@@ -19,6 +19,10 @@
   ],
   "bingx": [
     {
+      "contract": "NEX-USDT",
+      "eventDate": "2026-05-20T15:00:00Z"
+    },
+    {
       "contract": "AEON-USDT",
       "eventDate": "2026-05-20T11:00:00Z"
     },
@@ -215,14 +219,6 @@
     {
       "contract": "DIS_USDT",
       "eventDate": "2026-05-14T05:55:14Z"
-    },
-    {
-      "contract": "HD_USDT",
-      "eventDate": "2026-05-13T12:17:17Z"
-    },
-    {
-      "contract": "UBER_USDT",
-      "eventDate": "2026-05-13T12:16:47Z"
     }
   ],
   "kucoin": [
