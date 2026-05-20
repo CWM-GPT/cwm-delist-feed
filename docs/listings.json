@@ -81,10 +81,6 @@
     {
       "contract": "RKC-USDT",
       "eventDate": "2026-05-13T09:00:00Z"
-    },
-    {
-      "contract": "FHE-USDT",
-      "eventDate": "2026-05-13T07:40:00Z"
     }
   ],
   "bitget": [
@@ -131,6 +127,14 @@
   ],
   "bybit": [
     {
+      "contract": "RKLBUSDT",
+      "eventDate": "2026-05-20T07:48:42Z"
+    },
+    {
+      "contract": "CSCOUSDT",
+      "eventDate": "2026-05-20T07:46:15Z"
+    },
+    {
       "contract": "CBRSUSDT",
       "eventDate": "2026-05-19T08:24:45Z"
     },
@@ -157,22 +161,6 @@
     {
       "contract": "BMNRUSDT",
       "eventDate": "2026-05-14T07:59:22Z"
-    },
-    {
-      "contract": "BZUSDT",
-      "eventDate": "2026-05-13T08:08:32Z"
-    },
-    {
-      "contract": "ARMUSDT",
-      "eventDate": "2026-05-13T08:07:07Z"
-    },
-    {
-      "contract": "MRVLUSDT",
-      "eventDate": "2026-05-13T08:05:41Z"
-    },
-    {
-      "contract": "BABAUSDT",
-      "eventDate": "2026-05-13T08:03:12Z"
     }
   ],
   "gate": [
