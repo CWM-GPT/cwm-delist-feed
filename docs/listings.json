@@ -235,6 +235,18 @@
   ],
   "kucoin": [
     {
+      "contract": "RDDTUSDTM",
+      "eventDate": "2026-05-20T09:00:00Z"
+    },
+    {
+      "contract": "ASMLUSDTM",
+      "eventDate": "2026-05-20T09:00:00Z"
+    },
+    {
+      "contract": "OKLOUSDTM",
+      "eventDate": "2026-05-20T09:00:00Z"
+    },
+    {
       "contract": "NBISUSDTM",
       "eventDate": "2026-05-19T09:30:00Z"
     },
@@ -359,14 +371,6 @@
     {
       "contract": "STAR_USDT",
       "eventDate": "2026-05-14T06:05:00Z"
-    },
-    {
-      "contract": "ASTEROIDSOL_USDT",
-      "eventDate": "2026-05-13T05:10:00Z"
-    },
-    {
-      "contract": "RKC_USDT",
-      "eventDate": "2026-05-13T05:10:00Z"
     }
   ]
 }
