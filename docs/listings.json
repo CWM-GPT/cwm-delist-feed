@@ -19,6 +19,10 @@
   ],
   "bingx": [
     {
+      "contract": "AEON-USDT",
+      "eventDate": "2026-05-20T11:00:00Z"
+    },
+    {
       "contract": "NCCOXAUAUD2USD-USDT",
       "eventDate": "2026-05-20T09:00:00Z"
     },
@@ -77,10 +81,6 @@
     {
       "contract": "STAR-USDT",
       "eventDate": "2026-05-14T09:00:00Z"
-    },
-    {
-      "contract": "RKC-USDT",
-      "eventDate": "2026-05-13T09:00:00Z"
     }
   ],
   "bitget": [
@@ -316,6 +316,10 @@
     }
   ],
   "mexc": [
+    {
+      "contract": "NEX_USDT",
+      "eventDate": "2026-05-20T14:10:00Z"
+    },
     {
       "contract": "ZEST_USDT",
       "eventDate": "2026-05-19T13:10:00Z"
