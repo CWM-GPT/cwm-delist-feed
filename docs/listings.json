@@ -165,18 +165,6 @@
     {
       "contract": "PHAROSUSDT",
       "eventDate": "2026-05-14T08:12:36Z"
-    },
-    {
-      "contract": "IWMUSDT",
-      "eventDate": "2026-05-14T08:05:22Z"
-    },
-    {
-      "contract": "LLYUSDT",
-      "eventDate": "2026-05-14T08:03:44Z"
-    },
-    {
-      "contract": "BMNRUSDT",
-      "eventDate": "2026-05-14T07:59:22Z"
     }
   ],
   "gate": [
@@ -312,6 +300,10 @@
     }
   ],
   "mexc": [
+    {
+      "contract": "SPCXSTOCK_USDT",
+      "eventDate": "2026-05-21T08:15:00Z"
+    },
     {
       "contract": "SAMSUNGSTOCK_USDT",
       "eventDate": "2026-05-21T03:45:00Z"
