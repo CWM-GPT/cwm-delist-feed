@@ -27,6 +27,10 @@
       "eventDate": "2026-05-21T10:00:00Z"
     },
     {
+      "contract": "NIL-USDT",
+      "eventDate": "2026-05-21T09:00:00Z"
+    },
+    {
       "contract": "NEX-USDT",
       "eventDate": "2026-05-20T15:00:00Z"
     },
@@ -89,10 +93,6 @@
     {
       "contract": "NCSKLRCX2USD-USDT",
       "eventDate": "2026-05-14T10:00:00Z"
-    },
-    {
-      "contract": "STAR-USDT",
-      "eventDate": "2026-05-14T09:00:00Z"
     }
   ],
   "bitget": [
