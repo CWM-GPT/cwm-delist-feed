@@ -7,14 +7,6 @@
     {
       "contract": "BTCUSD1",
       "eventDate": "2026-05-18T09:00:00Z"
-    },
-    {
-      "contract": "STARUSDT",
-      "eventDate": "2026-05-14T05:30:00Z"
-    },
-    {
-      "contract": "PHAROSUSDT",
-      "eventDate": "2026-05-14T05:15:00Z"
     }
   ],
   "bingx": [
@@ -88,6 +80,10 @@
     }
   ],
   "bitget": [
+    {
+      "contract": "SPCXUSDT",
+      "eventDate": "2026-05-21T04:23:46Z"
+    },
     {
       "contract": "CSCOUSDT",
       "eventDate": "2026-05-18T11:33:18Z"
