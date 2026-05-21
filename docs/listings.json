@@ -11,6 +11,22 @@
   ],
   "bingx": [
     {
+      "contract": "NCSKFLY2USD-USDT",
+      "eventDate": "2026-05-21T10:00:00Z"
+    },
+    {
+      "contract": "NCSKBE2USD-USDT",
+      "eventDate": "2026-05-21T10:00:00Z"
+    },
+    {
+      "contract": "NCSKGLW2USD-USDT",
+      "eventDate": "2026-05-21T10:00:00Z"
+    },
+    {
+      "contract": "NCSKTXN2USD-USDT",
+      "eventDate": "2026-05-21T10:00:00Z"
+    },
+    {
       "contract": "NEX-USDT",
       "eventDate": "2026-05-20T15:00:00Z"
     },
@@ -199,22 +215,6 @@
     {
       "contract": "SOXL_USDT",
       "eventDate": "2026-05-14T11:09:33Z"
-    },
-    {
-      "contract": "STAR_USDT",
-      "eventDate": "2026-05-14T06:08:38Z"
-    },
-    {
-      "contract": "AMAT_USDT",
-      "eventDate": "2026-05-14T05:56:20Z"
-    },
-    {
-      "contract": "RKLB_USDT",
-      "eventDate": "2026-05-14T05:55:45Z"
-    },
-    {
-      "contract": "DIS_USDT",
-      "eventDate": "2026-05-14T05:55:14Z"
     }
   ],
   "kucoin": [
@@ -363,10 +363,6 @@
     {
       "contract": "CBRSSTOCK_USDT",
       "eventDate": "2026-05-15T03:45:00Z"
-    },
-    {
-      "contract": "STAR_USDT",
-      "eventDate": "2026-05-14T06:05:00Z"
     }
   ]
 }
