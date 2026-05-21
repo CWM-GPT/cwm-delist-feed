@@ -317,6 +317,14 @@
   ],
   "mexc": [
     {
+      "contract": "SAMSUNGSTOCK_USDT",
+      "eventDate": "2026-05-21T03:45:00Z"
+    },
+    {
+      "contract": "SKHYNIXSTOCK_USDT",
+      "eventDate": "2026-05-21T03:45:00Z"
+    },
+    {
       "contract": "NEX_USDT",
       "eventDate": "2026-05-20T14:10:00Z"
     },
